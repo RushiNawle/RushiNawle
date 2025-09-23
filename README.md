@@ -4,7 +4,8 @@
 
 📍 Location: Pune, Maharashtra India  
 📧 Email: rushikeshnawle1811@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/nawle-rushikesh](www.linkedin.com/in/nawle-rushikesh)  
+🔗 LinkedIn: [linkedin.com/in/nawle-rushikesh](https://www.linkedin.com/in/nawle-rushikesh/
+)
 
 ---
 
