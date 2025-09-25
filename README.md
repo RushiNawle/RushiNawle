@@ -49,7 +49,8 @@ I am an enthusiastic **Full Stack Developer** with skills in **Java, JavaScript,
 
 - [Hospital Management System](https://github.com/RushiNawle/hospital_management_system)  
 - [Expense Tracker](https://github.com/RushiNawle/expense-tracker)  
-- [Weather App](https://github.com/RushiNawle/weather-app)  
+- [Weather App](https://github.com/RushiNawle/weather-app)
+- [TicTacGamr](https://github.com/RushiNawle/TicTacGame)
 
 ---
 
