@@ -40,7 +40,7 @@ I am an enthusiastic **Full Stack Developer** with skills in **Java, JavaScript,
 
 ## 📊 My GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushiNawle&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushiNawle&layout=compact&theme=dark)
 
 
 ---
